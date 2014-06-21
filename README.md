@@ -20,9 +20,8 @@
     * `python worldcup.py tomorrow`
     
 ##效果图
-![worldcup](http://ww3.sinaimg.cn/large/4b31c31egw1ehlwgecf3fj20ln0h33zz.jpg)
-
-![worldcup-today](http://ww1.sinaimg.cn/large/4b31c31egw1ehlwh7y31kj20ln0h30up.jpg)
+![worldcup－today](http://ww3.sinaimg.cn/large/4b31c31egw1ehlwgecf3fj20ln0h33zz.jpg)
+![worldcup](http://ww1.sinaimg.cn/large/4b31c31egw1ehlwh7y31kj20ln0h30up.jpg)
 
 ##数据来源
 * [http://worldcup.sfg.io/matches/](http://worldcup.sfg.io/matches/)
