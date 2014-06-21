@@ -98,22 +98,6 @@ def prettify(match):
         colorama.Fore.WHITE + match_status
     )
 
-def group_list(country):
-    """
-    Lists a group member
-    """
-    return """
-    {:<5} \t\t| wins: {} | losses: {} | goals for: {} | goals against: {} | out? {}
-    {}
-    """.format(
-        country['country'],
-        country['wins'],
-        country['losses'],
-        country['goals_for'],
-        country['goals_against'],
-        country['knocked_out'],
-        "-" * SCREEN_WIDTH
-    )
 
 
 def is_valid(match):
