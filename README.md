@@ -22,6 +22,7 @@
 ##效果图
 ![worldcup－today](http://ww3.sinaimg.cn/large/4b31c31egw1ehlwgecf3fj20ln0h33zz.jpg)
 ![worldcup](http://ww1.sinaimg.cn/large/4b31c31egw1ehlwh7y31kj20ln0h30up.jpg)
+![worldcup-ing](http://ww1.sinaimg.cn/large/4b31c31egw1ehmo47zvakj20ln0h3q4e.jpg)
 
 ##数据来源
 * [http://worldcup.sfg.io/matches/](http://worldcup.sfg.io/matches/)
